@@ -46,4 +46,9 @@
       transform: rotate(90deg);
       transition: all 0.05s;
       transition-timing-function: cubic-bezier(0.05, 3.88, 0.58, 1);
+      border-radius: 5px;
+    }
+
+    .second-hand {
+      height: 3px;
     }
